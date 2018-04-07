@@ -19,6 +19,10 @@ My favorite food is Deep Fried Cassava (aka Mandioca Frita).
 Beginer whisky apreciator (free gift tip right there).
 No need to mention I'm a coffee lover. 
 
+Cryptocurrency is the future of money, fiat stinks like a dead body, its a matter
+of time. That's why most of my money is in Decred. Would probably be safer
+to leave it on Bitcoin, but unfortunally I don't se how can Bitcoin be the future.
+
 Even though I have traveled quite a lot for a regular Brazilian in my age,
 I am not a big fan of turisting.
 
