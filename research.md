@@ -18,7 +18,7 @@ pubs:
           url:  "http://www.imdb.com/title/tt0133093/"
 ## Publications (peer reviewed)
 -->
-Publications will come here soon enough I hope.
+Publications will come here soon enough, I hope.
 
 
 

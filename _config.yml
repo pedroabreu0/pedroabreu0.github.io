@@ -1,5 +1,5 @@
 title: Pedro Abreu
-description: Much-Worse Jekyll theme for academic page and blog
+description: Pedro Abreu academic page and blog
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -22,14 +22,14 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: google
     statcounter:
         sc_project  :
         sc_security :
         sc_invisible: 1
         sc_text     : 2
     google:
-        tracking_id: ''
+        tracking_id: 'UA-117099636-1'
     getclicky:
       site_id:
     mixpanel:
