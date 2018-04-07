@@ -20,7 +20,7 @@ I got my BS in Computer Science at University of Brazilian, under
 
 
 ## Contact
-
+Pedro da Costa Abreu Júnior<br/>
 Email: [pdacost@purdue.edu](mailto:pdacost@purdue.edu)<br/>
-Github: [https://github.com/pedroabreu0]()<br/>
+Github: [https://github.com/pedrotst]()<br/>
 Facebook: [https://www.facebook.com/pedroabreu0]()
