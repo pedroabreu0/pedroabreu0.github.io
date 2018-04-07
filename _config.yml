@@ -5,10 +5,10 @@ sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://gchauras.github.io"     # the base hostname & protocol for your site
+url: "http://pedroabreu0.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
-author:
+author: 
     name:
     facebook:
     scholar:
@@ -43,7 +43,7 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: disqus
     disqus:
       short_name:
     livefyre:
