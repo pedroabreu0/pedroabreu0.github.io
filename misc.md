@@ -4,16 +4,26 @@ title: Interests
 permalink: /misc/
 ---
 
-## Cool hobby to prove you are athletic
+I am currently yellow belt green tag (3rd graduation) in Taekwondo.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+My favorite RPG of all times is Lufia: Rise of the Sinistrals.
+The second favorite is Chrono Trigger, which I have completed all 13 endings (didn't do the
+DS only one yet).
+Then Silver. Then the Pokemon series. I have completed the Pokedex of Pokemon
+Emerald, so I have a Cyndaquill there. Yes, I am very proud if this, it took me years!
 
-## Cooler but boring hobby to prove you are smart
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+I have a level 66 Plainswalker in Lineage II Classic and plenty of great friends there,
+not sure how things will go now that I'm starting the PhD.
 
-## Cooler hobby 2
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+My favorite food is Deep Fried Cassava (aka Mandioca Frita). 
+Beginer whisky apreciator (free gift tip right there).
+No need to mention I'm a coffee lover. 
 
-## Ancient hobby which is not cool anymore
+Even though I have traveled quite a lot for a regular Brazilian in my age,
+I am not a big fan of turisting.
 
-Consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I love being with my friends and talk about anything that makes their eye sparkle.
+I also love meeting new people and making new friends. Please feel free to ping me
+in any social media and talk randomly about anything.
+
+I am a [Spiritist](https://en.wikipedia.org/wiki/Spiritism).
