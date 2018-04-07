@@ -5,7 +5,7 @@ description: "Um pouco sobre minha jornada desde a graduação até o PhD"
 categories: ["pt-br", ""]
 disclosure: "Neste texto vou falar mais sobre cursos de exatas e engenharias,
 mais especificamente sobre a computação. Não me responsabilizo se a realidade
-em cursos de humanas for absolutamente diferente daquela retratada aqui."
+em cursos de humanas ou biológicas for absolutamente diferente daquela retratada aqui."
 location: "Silicon Valley"
 ---
 
@@ -32,17 +32,19 @@ melhor em muitos aspectos que na _University of Sydney_. Muitas vezes os profess
 das universidades públicas brasileiras são figuras de renome no mundo acadêmico
 internacional e nós, meros mortais estudantes, sequer sabemos ou valorizamos isto.
 
-Vá, converse com os professores do seu departamento, encontre os professores com
+Vá, converse com os professores do seu departamento, encontre os pesquisadores com
 interesses similares aos seus, mande emails e marque reuniões. Não precisa ser
-nada chique, apenas mencione que você tem interesse na área e gostaria de 
+nada chique, apenas mencione seu interesse na área e que gostaria de 
 sentar para conversar sobre os projetos que ele conduz.  Você ficaria
 impressionado como um professor vai te receber bem em saber do seu interesse 
 naquela área. Se tem algo que todos professores tem em comum é carga de
-trabalho alta e baixa mão de obra.
+trabalho alta e baixa mão de obra. Não é todo dia que alguém bate na sua porta
+pedindo pra trabalhar de graça!
 
-Isto vai te dar a oportunidade de fazer um tcc bacana, numa área que você curte.
+Entender melhor as pesquisas do seu departamento te dará a oportunidade de 
+fazer um tcc bacana, numa área que você curte.
 Portanto já vá mexendo seus pauzinhos por volta da segunda metade do seu curso
-e é bem possível que você até consiga publicar seu trabalho. 
+com sorte você consegue até publicar seu trabalho. 
 Sair da graduação com uma publicação é o academicamente equivalente a ter feito
 um estágio numa empresa foda.
 
@@ -66,9 +68,9 @@ Eu particularmente sigo [coq-club](https://sympa.inria.fr/sympa/arc/coq-club),
 linguagens de programação e provadores de teoremas. 
 
 Foi no 
-coq-club que consegui o estágio que me encontro agora e me trouxeram do brasil
-pra passar um mês aqui fazendo treinamento e então vou trabalhar remoto até
-começar o PhD.
+coq-club que consegui o estágio em que me encontro agora e me trouxeram do brasil
+pra passar um mês em San Mateo fazendo treinamento e então vou trabalhar remoto até
+começar o PhD. Talvez continue trabalhando depois, mas tem que ver.
 
 A verdade é que o mundo tem escassez de mão de obra qualificada e de gente
 altamente motivada. Você ficaria impressionado com a quantidade de oportunidades
@@ -79,7 +81,7 @@ sobre isso.
 Se você ainda não sabe usar o [reddit](https://www.reddit.com/), vá lá imediatamente
 e comece a futricar até aprender a usar.
 
-Para quem não sabe, o reddit é basicamente um mega forum com incontáveis subredits. 
+Para quem não sabe, o reddit é basicamente um mega fórum com incontáveis subredits. 
 Existe subs de basicamente qualquer coisa concebível pela cabeça humana. 
 Lá você vai encontrar gente
 com interesses similares aos seus e que vão levar as discussões a sério, pois
@@ -99,8 +101,8 @@ todas dúvidas. Na aba de descrição também tem diversos links úteis e explic
 
 ## 3- Cartas de Recomendação, Statement of Purpose, CV, GPA, TOEFL e GRE
 Lembra lá atrás quando falei que você precisa de uma boa relação com os professores?
-Pois é, você precisa deles pra te escreverem boas cartas de recomendação. **Pelo
-menos três**. Pode soar muito, mas se você fez um bom trabalho no decorrer do
+Pois é, você precisa deles pra te escreverem boas cartas de recomendação. Pelo
+menos três. Pode soar muito, mas se você fez um bom trabalho no decorrer do
 seu curso vai ser relativamente fácil. Professores e Chefes querem ver profissionais
 competentes vencendo na vida, indo pra frente e realizando seus sonhos. 
 Portanto garanta que você seja sempre visto como competente e dê o seu
@@ -108,9 +110,9 @@ o melhor em qualquer situação que se encontre.
 Crie laços reais e duradouros com aqueles ao seu redor. Você não sabe quantas
 portas estas pessoas podem te abrir.
 
-Algumas universidades permite que uma das cartas de recomendação não venha do 
-meio acadêmico. Portanto pedi uma das cartas de recomendação pro meu antigo
-chefe do estágio, pois eu acredito que ele é uma das pessoas que foi capaz
+Algumas universidades permitem que uma das cartas de recomendação não venha do 
+meio acadêmico. Portanto pedi uma delas pro meu antigo
+chefe do estágio, pois acredito que ele é uma das pessoas que foi capaz
 de ver meu verdadeiro potencial.
 
 O Statement of Purpose é uma carta de duas páginas onde você vai vender seu peixe.
@@ -143,16 +145,19 @@ uma carreira tão difícil quanto a acadêmica.
 
 GPA é o grading point average, o nosso rendimento acadêmico. Suas boas notas
 contam. Só não sei o quanto, porque o sistema de nota brasileiro costuma ser
-completamente zoado e deflacionado, sem contar que é muito mais comum reprovarmos
-matérias que no restante do mundo porque eles tem autonomia demais pra fazer
+completamente zoado e deflacionado em relação ao restante do mundo. 
+E também é muito mais comum reprovarmos
+porque os professores basicamente têm autonomia demais pra fazer
 o que quiserem com o curso, inclusive darem asas aos seus instintos sociopatas.
 O que recomendo é tentar seu melhor pra tentar explicar isto no seu SOP.
 Se a universidade for boa de verdade vão saber ver um candidato bom mesmo sem
 um GPA que eles considerem ótimo.
 
 TOEFL é a prova de proficiência em inglês. As universidades geralmente pedem
-uma nota superior a 100. Não vai é difícil, você tem que se preocupar muito
-mais com o GRE.
+uma nota superior a 100 no TOEFL ibt. O TOEFL itp (grátis e aplicado nas universidades)
+não costuma ser aceito.
+O TOEFL não é difícil, você tem que se preocupar muito mais com o GRE.
+Estudando pra ir bem no GRE você _com certeza_ vai ir bem no TOEFL.
 
 O GRE é uma prova de três frentes: raciocínio matemático, compreensão de texto
 nível acadêmico e escrita em nível acadêmico. Achei uma prova muito difícil
@@ -164,7 +169,7 @@ deixe de treinar a escrita, foi ela que me derrubou.
 ## 4- Processo de Inscrição
 Beleza, você já tem tudo que necessita pra se inscrever. Agora vem a parte
 pesada pro bolso: Cada inscrição custa em torno entre 60 e 80 dólares.
-O Toefl e o GRe custa uns 100$ cada, então tenha certeza que não vai jogar
+O Toefl e o GRe custa uns $100 cada, então tenha certeza que não vai jogar
 esse dinheiro no lixo e se prepare para cada uma delas.
 
 O pior é que conheci estudantes que se assustaram quando falei que só me inscrevi
@@ -180,11 +185,18 @@ sendo possível conseguir eventuais bolsas. Mas esse é o motivo principal de eu
 ter focado em conseguir ir pro Doutorado diretamente, seria absolutamente impossível
 eu pagar meus estudos e me sustentar em outro país.
 
-Nos Estados Unidos o processo de inscrição de todas universidade abrem por volta
+Nos Estados Unidos o processo de inscrição de todas as universidade abre por volta
 de outubro e fecha em dezembro. Na Europa é um pouco mais bagunçado, cada
 professor pega o aluno quando quiser, como quiser. Então vale a pena ficar
 de olho nas listas de email com as mais diversas oportunidades. Outro ponto 
 pra Europa é que você não precisa de fazer o GRE por lá.
 
-Seja como for já vai se preparando porque o processo de inscrição também demanda
-tempo preenchendo formulários intermináveis.
+Meu amigo Eric Schmiele pediu para avisar que a [LAE](http://www.latinoaustralia.com/)
+dá todo o suporte e auxílio no processo de inscrição para fazer o doutorado
+na Austrália. Infelizmente não possuo mais informações para lhes passar sobre isso.
+
+Estou sem ideias de como finalizar o texto, então é isso. Se depois de tudo isso
+você ainda tiver dúvidas, ou quiser ainda mais dicas ou só quiser conversar sinta-se
+livre de deixar um comentário abaixo.
+
+PEACEOUT.
