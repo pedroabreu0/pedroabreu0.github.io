@@ -18,6 +18,11 @@ layout: default
         {{ cat }}&nbsp;
         {% endfor %}
 
+        {% if page.disclosure %}
+        <p class="post-meta">Full Disclosure: {{ page.disclosure }}</p>
+        {% endif %}
+
+
         </p>
         {% endif %}
     </header>
