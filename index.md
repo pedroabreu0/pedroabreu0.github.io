@@ -10,6 +10,8 @@ Proofs and all sorts of interesting stuff.
 
 My advisor is [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
+I got my BS in Computer Science at University of Brazilian, under 
+[Rodrigo Bonifacio](http://wp.rbonifacio.net/) in 2017.
 
 
 ## Contact
