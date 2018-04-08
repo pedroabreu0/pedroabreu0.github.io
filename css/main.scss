@@ -34,10 +34,16 @@ $line-color:        $grey-light;
 $content-width:    50em;
 $content-min-width:15em;
 $mobile:           32em;
-$desktop:          50em;
+$desktop:          32em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin media-min($device){
+    @media screen and (min-width: $device){
         @content;
     }
 }

@@ -54,12 +54,23 @@
     display: block;
 }
 
-.site-section{
-    max-width: 70%;
-    padding-left: 15%;
+.blog-post-content{
+    //font-weight: 400;
 }
 
-.blog-post-content{
-    font-weight: 400;
+@include media-min($desktop) {
+    .site-section{
+        max-width: 70%;
+        padding-left: 15%;
+    }
 }
+
+@include media-query($mobile) {
+    .post{
+        font-size: $vsmall-font-size;
+    }
+
+
+}
+
 
