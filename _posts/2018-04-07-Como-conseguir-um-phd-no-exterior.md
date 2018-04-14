@@ -33,7 +33,8 @@ das universidades públicas brasileiras são figuras de renome no mundo acadêmi
 internacional e nós, meros mortais estudantes, sequer sabemos ou valorizamos isto.
 
 Vá, converse com os professores do seu departamento, encontre os pesquisadores com
-interesses similares aos seus, mande emails e marque reuniões. Não precisa ser
+interesses similares aos seus, procure por pibics, mande emails e marque reuniões. 
+Não precisa ser
 nada chique, apenas mencione seu interesse na área e que gostaria de 
 sentar para conversar sobre os projetos que ele conduz.  Você ficaria
 impressionado como um professor vai te receber bem em saber do seu interesse 
@@ -99,7 +100,42 @@ Lá você vai encontrar milhares de pessoas exatamente na mesma situação que v
 e outras centenas que já passaram por tudo isso e estão lá para ajudar a tirar
 todas dúvidas. Na aba de descrição também tem diversos links úteis e explicações.
 
-## 3- Cartas de Recomendação, Statement of Purpose, CV, GPA, TOEFL e GRE
+## 3- Conferências
+Procure participar de conferências mesmo como ouvinte.
+Desta forma você fica por dentro de tudo que está acontecendo na sua área de interesse.
+Quais são os _hot topic_, quem são os grandes nomes, quais universidades estão fazendo
+trabalhos interessantes, etc. 
+
+Conferências também te dão a oportunidade de conversar com professores renomados da sua área em um
+ambiente descontraído. Você é um mero aluno de graduação, ninguém espera muito
+de você nessa altura, então aproveite sua condição pra fazer perguntas bobas,
+buscar entender como as coisas funcionam no mundo acadêmico. E isto te colocará
+muito a frente de outros alunos que também tem interesse mas não investiram
+tanto quanto você já está investindo. Lembre-se que a academia é como uma 
+cidade pequena, isto é, todo mundo conhece todo mundo. Portanto quanto mais cedo você
+for visto nesta cidade melhor pra sua carreira.
+
+Geralmente os departamentos tem uma verba do governo para participação de evento.
+Converse com seu orientador, veja se ele não te consegue uma ajuda de custo, nem
+que seja a inscrição. Demonstrar forte interesse mostrará ao seu orientador 
+que aquele dinheiro não será um gasto, mas um investimento no seu futuro.
+Sei que esta crise brasileira não ajuda, portanto caso uma ajuda de custo não
+seja possível, tente tirar dinheiro do seu bolso para participar, você não vai
+se arrepender.
+
+Meu orientador me conseguiu uma bolsa para vir fazer uma escola de verão nos EUA,
+foi uma oportunidade única na vida, e foi quando decidi de uma vez por todas 
+vir fazer o PhD aqui. Até então eu também nem sabia que era possível.
+Mas conversando com os outros alunos, e pegando mil e uma dicas que acabei descobrindo
+todo esse mundo que escapa completamente da nossa realidade.
+
+Nunca tenha medo de conversar com as pessoas, aluno ou professor. Peça dicas,
+procure macetes, pergunte como eles estão na situação que estão, busque assuntos
+interessantes para ambos e permita o diálogo fluir. Eu sei que conversar com as pessoas pode ser 
+petrificante. Acredite em mim, já estive frente a frente com os maiores nomes
+da minha área. É normal sentir medo, o importante é não permitir que o medo te domine.
+
+## 4- Cartas de Recomendação, Statement of Purpose, CV, GPA, TOEFL e GRE
 Lembra lá atrás quando falei que você precisa de uma boa relação com os professores?
 Pois é, você precisa deles pra te escreverem boas cartas de recomendação. Pelo
 menos três. Pode soar muito, mas se você fez um bom trabalho no decorrer do
@@ -109,6 +145,7 @@ Portanto garanta que você seja sempre visto como competente e dê o seu
 o melhor em qualquer situação que se encontre. 
 Crie laços reais e duradouros com aqueles ao seu redor. Você não sabe quantas
 portas estas pessoas podem te abrir.
+
 
 Algumas universidades permitem que uma das cartas de recomendação não venha do 
 meio acadêmico. Portanto pedi uma delas pro meu antigo
@@ -166,7 +203,7 @@ Recomendo baixar algum app pra te ajudar. No Brasil não somos acostumados
 a fazer prova com um tempo curto, o que dificulta ainda mais. E não 
 deixe de treinar a escrita, foi ela que me derrubou.
 
-## 4- Processo de Inscrição
+## 5- Processo de Inscrição
 Beleza, você já tem tudo que necessita pra se inscrever. Agora vem a parte
 pesada pro bolso: Cada inscrição custa em torno entre 60 e 80 dólares.
 O Toefl e o GRe custa uns $100 cada, então tenha certeza que não vai jogar
