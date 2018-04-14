@@ -100,7 +100,6 @@ blockquote {
 pre, code {
     border: 1px solid $line-color;
     border-radius: 3px;
-    background-color: $dark-background;
     font-family: monospace;
     font-size: $small-font-size;
 }
@@ -159,4 +158,9 @@ ul.listing li.listing-item time {
 
 ul.listing li.listing-item a {
     color: $url-color;
+}
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
 }
