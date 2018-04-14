@@ -2,7 +2,7 @@
 layout: post
 title: "Como conseguir um PhD no exterior"
 description: "Um pouco sobre minha jornada desde a graduação até o PhD"
-categories: ["pt-br", ""]
+categories: ["Dicas do Pedro", "pt-br"]
 disclosure: "Neste texto vou falar mais sobre cursos de exatas e engenharias,
 mais especificamente sobre a computação. Não me responsabilizo se a realidade
 em cursos de humanas ou biológicas for absolutamente diferente daquela retratada aqui."
