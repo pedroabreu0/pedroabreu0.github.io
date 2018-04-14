@@ -54,10 +54,6 @@
     display: block;
 }
 
-.blog-post-content{
-    //font-weight: 400;
-}
-
 @include media-min($desktop) {
     .site-section{
         max-width: 70%;
@@ -72,8 +68,6 @@
 
     .site-section{
     }
-
-
 
 }
 
