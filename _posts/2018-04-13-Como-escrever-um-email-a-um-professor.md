@@ -1,4 +1,4 @@
----
+m--
 layout: post
 title: "A Arte de Confeccionar Emails"
 description: "Enviar email a um professor é uma arte, don't take it for granted"
@@ -39,7 +39,7 @@ alguém que:
 
 Claro que nem sempre é assim, mas é melhor prevenir que remediar. 
 Mantenha estas três regras em mente e não terá problemas. Portanto apenas
-quebre o formalismo dos emails depois do professor te responder de
+quebre o formalismo dos emails depois do professor te responder
 informalmente. Mas lembre que é melhor prevenir que remedir. Na dúvida seja formal.
 
 Eu mesmo já levei orelhada por ter sido muito informal com um amigo dele.
@@ -58,7 +58,7 @@ ou não, mas o importante é que _na dúvida seja formal_.
 Então vamos falar sobre a estrutura básica de um email.
 ## 1- Cumprimentos de abertura e fechamento
 
-Quando estiver sendo formal **sempre comece e termine o email com um comprimento**, 
+Quando estiver sendo formal **sempre comece e termine o email com um cumprimento**, 
 como se fosse uma carta. Exemplo:
 
     Caro Sr. Sobrenome-Comum,
