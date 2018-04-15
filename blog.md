@@ -4,7 +4,11 @@ title: Blog
 permalink: /blog/
 ---
 
-I write random stuff here sporadically.
+Currently I write advices for people interested in academic life,
+sorry if everything is in portuguese for now.
+
+In the future I plan to write about my research and more technical stuff in
+english.
 
 <ul class="listing">
 {% for post in site.posts %}
