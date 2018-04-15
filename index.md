@@ -24,6 +24,6 @@ abroad program Ciência Sem Fronteiras in 2014.
 
 ## Contact
 Pedro da Costa Abreu Júnior<br/>
-Email: [pdacost@purdue.edu](mailto:pdacost@purdue.edu)<br/>
+Email: (\ x -> x@purdue.edu) pdacost<br/>
 Github: [https://github.com/pedrotst]()<br/>
 Facebook: [https://www.facebook.com/pedroabreu0]()
