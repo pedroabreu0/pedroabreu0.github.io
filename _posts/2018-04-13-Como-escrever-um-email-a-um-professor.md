@@ -28,7 +28,7 @@ de emails neste estilo e vou te dar algumas dicas de formatação padrão, na qu
 eu posso sempre confiar quando estou na dúvida de como me dirigir a alguém.
  
 Em primeiro lugar tenha bem claro na sua cabeça que emails são uma forma
-de comunicação _quasi_ formal. E aqui encontra-se a chave de todos problemas.
+de comunicação _quasi_ formal. E aqui encontra-se a chave de todos os problemas.
 Nós, jovens, não somos acostumados com formalismos. Mas formalismos existem por
 um motivo, e neste caso em particular é para ser cauteloso o suficiente com
 alguém que:
@@ -40,14 +40,14 @@ alguém que:
 Claro que nem sempre é assim, mas é melhor prevenir que remediar. 
 Mantenha estas três regras em mente e não terá problemas. Portanto apenas
 quebre o formalismo dos emails depois do professor te responder
-informalmente. Mas lembre que é melhor prevenir que remedir. Na dúvida seja formal.
+informalmente. Mas lembre que é melhor prevenir que remediar. Na dúvida seja formal.
 
-Eu mesmo já levei orelhada por ter sido muito informal com um amigo dele.
+Eu mesmo já levei puxão de orelha por ter sido muito informal com um amigo dele.
 Foi assim: ele queria que eu conhecesse esse rapaz numa conferência, mandou-lhe
 um email e me colocou em CC. Daí o rapaz me respondeu que me procuraria lá na conferencia.
 
 
-Eu na minha inocência achei o ambiente tranquilo e respondi que "adoraria bater um papo" com ele.
+Na minha inocência achei o ambiente tranquilo e respondi que "adoraria bater um papo" com ele.
 Meu orientador me deu uma boa orelhada, falando que eu não deveria ter
 falado assim com o amigo dele. E explicou que talvez pudesse falar assim quando tivéssemos
 alguma intimidade. Mas que primeira abordagem assim isto era inaceitável.
@@ -68,7 +68,7 @@ como se fosse uma carta. Exemplo:
     Cordialmente,
         Pedro Abreu.
 
-Alguns exemplos de cumprimento de abertura: Caro(a), Querido(a).
+Alguns exemplos de cumprimento de abertura: Caro(a), Querido(a), Estimado(a).
 
 Em inglês: Dear.
 
@@ -94,13 +94,13 @@ e tentar falar de maneira difícil. Parece que falantes de português tem fetich
 por complicar as coisas e tentar ser um Camões ou rebuscado como Machado de Assis.
 Não faça isso, vá direto ao ponto.
 
-Lembre-se sempre que professores são seres extremamente ocupados. Então o primeiro
-parágrafo você deve capturar sua atenção. Se introduza e fale seus motivos de contactá-lo brevemente.
+Lembre-se sempre que professores são seres extremamente ocupados. Portanto no primeiro
+parágrafo você deve capturar sua atenção. Se introduza e fale os motivos de seu contato brevemente.
 
 No segundo parágrafo fale do seu problema. Novamente: tente ser tão claro, direto e breve
 quanto possível. É uma verdadeira arte.
 
-Se você precisar de mais que dois parágrafos pra explicar seu problema
+Se você precisar de mais que dois parágrafos para explicar seu problema,
 talvez seja melhor marcar uma reunião pessoalmente.
 
 **Sempre** separe os parágrafos com **dois enteres**, assim fica claro que 
@@ -120,7 +120,7 @@ Exemplos de assunto:
 ## 3- Exemplo
 
 Finalmente vou deixar aqui um email de exemplo que usei para pedir uma das minhas
-cartas de recomendação, espero que vocês não se importe de ser em inglês.
+cartas de recomendação, espero que vocês não se importem por ser em inglês.
 
     Assunto: Request for a Letter of Recommendation
     Hello Gabriele,
@@ -136,7 +136,7 @@ cartas de recomendação, espero que vocês não se importe de ser em inglês.
     Best Regards,
         Pedro Abreu.
 
-Como você podem ver eu quebrei algumas das regras que citei. Isto é pra mostrar
+Como vocês podem ver eu quebrei algumas das regras que citei. Isto é pra mostrar
 que o bom senso e a criatividade são sempre mais importantes que algumas regras.
 
 Por exemplo, usei _Hello_ porque sei que a pessoa é extremamente informal.
