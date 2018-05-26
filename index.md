@@ -13,7 +13,8 @@ My advisor is [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
 Right now I am an intern at [Sifive](https://www.sifive.com/) under 
 [Murali Vijayaraghavan](http://people.csail.mit.edu/vmurali/). We are formalizing
-the floating point unit using Coq and Kami.
+the floating point unit using [Coq](https://coq.inria.fr/)
+and [Kami](http://plv.csail.mit.edu/kami/).
 
 I got my BS in Computer Science at the University of Brasilia, under 
 [Rodrigo Bonifacio](http://wp.rbonifacio.net/) in 2017.
