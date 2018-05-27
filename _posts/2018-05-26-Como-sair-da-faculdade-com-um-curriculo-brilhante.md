@@ -180,14 +180,14 @@ e outras.
 Se você acha que já aprendeu tudo que tinha pra aprender no seu estágio,
 ou simplesmente gostaria de tentar novas coisas, simplesmente vá!
 
-Partidas são sempre dolorosas, mudanças também. Todo movimento de acensão requer
+Partidas são sempre dolorosas, mudanças também. Todo movimento de ascensão requer
 esforço. Portanto é natural se sentir coagido a ficar de boa onde você está.
 Mesmo que o trabalho já não é mais interessante como antes. 
 No entanto você deve lutar contra este sentimento e jamais deixá-lo vencer!
 
 Trace um plano de quais novas possibilidades você gostaria de encarar. Talvez
 seja um pibic. Quem sabe uma nova língua que você queria aprender mas falta o tempo?
-Quem sabe uma nova oportunidade de neǵocio maluco com aquele seu amigo meio doido?
+Quem sabe uma nova oportunidade de negócio maluco com aquele seu amigo meio doido?
 
 Você nunca se sentiu atraído por alguma outra área do seu curso e gostaria
 de se aprofundar mais nela? Pois é, está é sua chance. Esteja sempre explorando
