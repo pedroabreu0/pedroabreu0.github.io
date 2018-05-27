@@ -218,7 +218,7 @@ Pesquise por técnicas de como construir um currículo de destaque, existe toda 
 por trás disto!
 
 Entenda o que é esperado de você na vaga em que está se candidatando e se esforce
-por montar um currículo que responda as perguntas cruciais de qualquer recrutador:
+por montar um currículo que responda às perguntas cruciais de qualquer recrutador:
 "Por que você se encaixa nesta vaga?" e "Qual valor você vai agregar a esta empresa".
 
 Bem, é isso! Foque sempre em aprender mais e mais e você será uma pessoa
