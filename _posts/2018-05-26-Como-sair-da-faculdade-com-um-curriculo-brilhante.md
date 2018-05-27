@@ -68,20 +68,57 @@ e um [resolvedor de sudoku](https://github.com/pedrotst/sudoku).
 Aí é que está o verdadeiro aprendizado: pegar algo para fazer desde o princípio
 e suar a camisa tentando resolver aquele problema você mesmo. Do zero.
 
+Outro exemplo de atividade extracurricular que fiz foi o de tomar frente como
+líder dos tutores de Introdução a Ciência da Computação. Que é basicamente uma
+disciplina para ensinar programação para cursos que não precisam tanto de programar.
+Como por exemplo a matemática e engenharia ambiental.
+
+Foi um aprendizado que considero crucial para minha formação profissional, e que
+não fui colocado por ninguém ali. Basicamente vi que havia um problema 
+fundamental na estrutura do curso. Para mim era inaceitável que mesmo o aluno
+que gostaria de aprender não tinha as condições necessárias para isto, pois faltava
+o mais básico: material didático, exercícios e estrutura.
+
+Você deve estar se perguntando: como um curso desses sequer funciona? Eu também me
+perguntei isto por muito tempo.  Depois de muita deliberação, 
+tracei um plano do que poderia ser feito para melhorá-lo e mais importante: como executar isso.
+
+O próximo passo foi convencer os professores encarregados de que minha solução
+era melhor que a dele, e que poderíamos fazer diferença se ele nos desse mais autonomia.
+
+Depois de muito bate cabeça, discussão e brainstorm para fechar os detalhes, 
+finalmente que botar a mão na massa e fazer tudo isso acontecer.
+Claro que não fiz tudo isso sozinho. Tive muita ajuda do meu colega Guilherme Lemos, 
+sem ele nada disso teria sido possível.
+
+Onde eu quero chegar é que esta foi uma experiência vital para meu processo
+de formação e que eu quem vi a oportunidade de aplicar meus conhecimentos ali
+e por a mão na massa. Eu mesmo enxerguei e criei a oportunidade de fazer algo
+interessante. Foi uma dor de cabeça que eu não precisava ter tido, e que não
+ganhei nada com isto. Nenhum centavo, nenhum crédito. Nada material.
+
+O que ganhei foi muito mais valioso: a certeza de ter influenciado para melhor a vida de centenas de alunos.
+E o aprendizado de liderar e influenciar um grupo relativamente grande de pessoas.
+
 **O importante não é o que você faz, mas o que você aprende fazendo.**
+
+Não fique apenas reclamando das estruturas ao seu redor. Reclamar é muito fácil.
+Pense o que _você_ pode fazer pare resolver os problemas ao seu redor 
+(ou pelo menos parte de _algum_ problema!), 
+arregace a manga e mãos à obra!
 
 ## 3 - Estágio
 
 Vejo muitas pessoas reclamando absurdos como "Para conseguir um estágio é preciso
 de experiência, para ter experiência é preciso um estágio", mas não é bem por aí!
 
-Primeiramente é necessário entender porque uma empresa ou órgão público contratam
+Primeiramente é necessário entender porque uma empresa ou órgão público contrata
 estagiários para começo de conversa. Se você acha que eles são entidades boazinhas
 e que estão fazendo um bem pra sociedade e os estudantes você está muito enganado.
 
 Estagiários nada mais são que mão de obra barata para estas empresas. Isto significa
 que o serviço de um estagiário é bem menos especializado que um funcionário completo.
-E isto não é algum ruim, também não significa que é trabalho escravo. É uma situação
+E isto não é algum ruim e também não significa que é trabalho escravo. É uma situação
 de ganha-ganha para todas partes envolvidas.
 
 Por um lado a empresa ganha mais produtividade de seus funcionários mais valiosos.
@@ -92,6 +129,12 @@ E os estagiários são os maiores vitoriosos de toda essa situação pois:
 2. Podem colocar esta experiência no currículo;
 3. E estão trabalhando em contato íntimo com verdadeiros profissionais da área que
 tem muitíssimo a ensinar
+
+Utilize seu network ao seu favor para encontrar um estágio interessante. Comente
+com seus amigos que está procurando um estágio. Deixe seu currículo pronto para ser
+enviado. Converse, procure por oportunidades, faça cadastro em sites de emprego,
+procure oportunidades de freelance. Algumas vezes encontrar um emprego/estágio
+é difícil. Mas isso não significa que é impossível.
 
 Por outro lado, muitas vezes estagiários são colocados para fazerem
 tarefas absolutamente massantes, como por exemplo, preencher planilhas, instalar
@@ -105,7 +148,7 @@ de seu chefe para fazer trabalhos cada vez mais interessantes e mais desafiadore
 Ao mesmo tempo não aceite desaforo. Alguns chefes podem se sentir tentados a
 explorar os pobres estagiários. Mas tenha sempre muito claro em sua mente seu valor como
 pessoa e funcionário. **Aceitar
-condições de trabalho exploratórias não devem estar entre suas prioridades.**
+condições de trabalho exploratórias não deve estar entre suas prioridades.**
 
 Se depois de algumas conversas esse tipo de atitude continuar
 não tenha medo de virar as costas e recomeçar a jornada em #1 e #2.
@@ -143,7 +186,7 @@ Mesmo que o trabalho já não é mais interessante como antes.
 No entanto você deve lutar contra este sentimento e jamais deixá-lo vencer!
 
 Trace um plano de quais novas possibilidades você gostaria de encarar. Talvez
-seja um pibic. Quem sabe uma nova língua que você queira aprender mas falta o tempo?
+seja um pibic. Quem sabe uma nova língua que você queria aprender mas falta o tempo?
 Quem sabe uma nova oportunidade de neǵocio maluco com aquele seu amigo meio doido?
 
 Você nunca se sentiu atraído por alguma outra área do seu curso e gostaria
@@ -168,15 +211,15 @@ Se questione sobre o que você realmente sabe, o que você sabe mais ou menos
 e o que você definitivamente não sabe. 
 Isto vai te dar uma base muito boa do que deve colocar no seu currículo 
 sem medo de estar se gabando, mas também sem diminuir seus verdadeiros talentos. 
-E se você seguir todos estes te garanto que seus talentos serão diversos.
+E se você seguir todos os conselhos deste post te garanto que seus talentos serão diversos.
 
-Tome tempo construindo um currículo que realmente reflita seus conhecimentos e experiências.
-Procure online técnicas de como construir um currículo de destaque, existe toda uma ciência
-por trás!
+**Tome tempo construindo um currículo que realmente reflita seus conhecimentos, experiências e habilidades.**
+Pesquise por técnicas de como construir um currículo de destaque, existe toda uma ciência
+por trás disto!
 
-Entenda o que é esperado de você naquela vaga em que você está se candidatando e 
-responda as perguntas cruciais para qualquer recrutador: "Por que você se encaixa nesta
-vaga?" e "Qual valor você vai agregar a esta empresa".
+Entenda o que é esperado de você na vaga em que está se candidatando e se esforce
+por montar um currículo que responda as perguntas cruciais de qualquer recrutador:
+"Por que você se encaixa nesta vaga?" e "Qual valor você vai agregar a esta empresa".
 
 Bem, é isso! Foque sempre em aprender mais e mais e você será uma pessoa
 brilhante. Um currículo brilhante nada mais é que uma consequência disto.
