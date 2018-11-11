@@ -4,7 +4,7 @@ title: Interests
 permalink: /misc/
 ---
 
-I am currently yellow belt green tag (3rd graduation) in Taekwondo.
+I am currently green belt blue tag (5rd graduation) in Taekwondo.
 
 My favorite RPG of all times is [Lufia: Rise of the Sinistrals](https://en.wikipedia.org/wiki/Lufia_II:_Rise_of_the_Sinistrals).
 The second favorite is [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger), 
