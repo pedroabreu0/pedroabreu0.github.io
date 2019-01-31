@@ -212,12 +212,6 @@ mais natural de computabilidade, com a solução sendo construída passo-a-passo
 Ah, você não concorda? Então me explica ali embaixo nos comentários porquê, mas
 venha com bons argumentos porque o próprio Church admitiu isso...
 
-Bom, antes de continuarmos, por que você não aproveita e se inscreve na nossa
-lista de emails?  Essa é a melhor forma de acompanhar o nosso trabalho e não
-perder nenhuma publicação!
-
-{% include email-signup.html %}
-
 ## A Máquina Universal de Turing
 
 Chega de lenga lenga, vamos falar da Máquina Universal.
@@ -409,10 +403,6 @@ comentários abaixo e deixe uma mensagem para a gente.
 
 Se você encontrou algum erro no meu desenvolvimento, por favor, sinta-se livre e
 encorajado para indicar.
-
-E se você ainda não se inscreveu na nossa lista de e-mails, agora é a hora!
-  Clique [aqui](#){:data-toggle="modal" data-target="#email-signup-modal"} e
-  faça gratuitamente a sua inscrição!
 
 Acho que é isso.
 
