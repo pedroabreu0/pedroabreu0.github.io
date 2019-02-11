@@ -56,3 +56,6 @@ comments:
       width: 580
       colorscheme: light
 
+plugins:
+- jemoji
+

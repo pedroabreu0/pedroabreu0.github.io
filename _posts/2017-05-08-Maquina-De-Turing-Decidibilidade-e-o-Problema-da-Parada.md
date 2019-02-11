@@ -4,8 +4,9 @@ title: 'Máquina de Turing, Decidibilidade e o Problema da Parada'
 description: # Write below (max: 155 characters).
     Você não precisa ser nenhum PhD em computação para entender o problema
     que levou Alan Turing a criar o conceito matemático de computador e algoritmo.
-categories: teoria_da_computação
-tags: teoria_da_computação
+#categories: teoria_da_computação
+#tags: teoria_da_computação
+location: "Brasília - DF"
 [//]: # featured_image: problema-da-parada.jpeg
 [//]: # This is a comment in Markdown!
 [//]: # layout: default
