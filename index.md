@@ -24,4 +24,4 @@ Pedro da Costa Abreu Júnior<br/>
 Email: (\ x -> x@purdue.edu) pdacost<br/>
 Github: [https://github.com/pedrotst](https://github.com/pedrotst)<br/>
 Facebook: [https://www.facebook.com/pedroabreu0](https://www.facebook.com/pedroabreu0)<br/>
-Twitter [https://twitter.com/taintedpedro](https://twitter.com/taintedpedro)<br/>
+Twitter [https://twitter.com/etapedro](https://twitter.com/etapedro)<br/>
