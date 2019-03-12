@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/avatar.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/avatar.jpg" caption="" height="300px" align="right" %}
 
 I am currently a PhD student at Purdue University. I work with Programming Languages,
 Proofs and Theorem Provers. More specifically on synthesis using [Freer Monads](http://okmij.org/ftp/Haskell/extensible/more.pdf).
@@ -18,10 +18,6 @@ and [Kami](http://plv.csail.mit.edu/kami/).
 
 I got my BS in Computer Science at the University of Brasilia, under 
 [Rodrigo Bonifacio](http://wp.rbonifacio.net/) in 2017.
-
-The picture above was taken at the University of Sydney, where I was part of the study
-abroad program Ciência Sem Fronteiras in 2014.
-
 
 ## Contact
 Pedro da Costa Abreu Júnior<br/>
