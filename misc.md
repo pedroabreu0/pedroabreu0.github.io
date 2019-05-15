@@ -14,13 +14,9 @@ Emerald, so I have a Cyndaquill there.
 
 My favorite food is Deep Fried Cassava (aka Mandioca Frita). 
 Beginer whisky apreciator (free gift tip right there).
-No need to mention I'm a coffee lover. 
-
-Even though I have traveled quite a lot for a regular Brazilian in my age,
-I am not a big fan of turisting.
+I'm also a coffee lover. 
 
 I love being with my friends and talk about anything that makes their eye sparkle.
-I also love meeting new people and making new friends. Please feel free to ping me
-in any social media and talk randomly about anything.
+I also love meeting new people and making new friends.
 
 I am a [Spiritist](https://en.wikipedia.org/wiki/Spiritism).

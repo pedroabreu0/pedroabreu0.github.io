@@ -9,9 +9,11 @@ permalink: /
 I am currently a PhD student at Purdue University. I work with Programming Languages,
 Proofs and Theorem Provers. More specifically on synthesis using [Freer Monads](http://okmij.org/ftp/Haskell/extensible/more.pdf).
 
-My advisor is [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
+My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
-Before starting my PhD I was in intern at [Sifive](https://www.sifive.com/) under 
+The summer of 19' I have been an intern at [Galois Inc.](https://galois.com/).
+
+Before starting my PhD I was an intern at [Sifive](https://www.sifive.com/) under 
 [Murali Vijayaraghavan](http://people.csail.mit.edu/vmurali/). Worked on the formalization
 of the floating point unit using [Coq](https://coq.inria.fr/)
 and [Kami](http://plv.csail.mit.edu/kami/).
