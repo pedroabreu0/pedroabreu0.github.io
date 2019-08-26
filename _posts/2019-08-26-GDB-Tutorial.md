@@ -13,6 +13,8 @@ the execution and check the variable values, check if a particular
 condition is met, if a function was called, and a lot of other useful
 perks that help you to find what is going wrong with your program.
 
+If you prefer you can find the pdf version of this tutorial [here](https://github.com/pedrotst/gdb-tutorial/blob/master/docs/gdb-tutorial.pdf).
+
 As you may have already noticed, pointers can be quite tricky to debug.
 Hopefully this tutorial will make your life a lot easier from here on.
 
