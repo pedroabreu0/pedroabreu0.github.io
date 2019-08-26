@@ -2,8 +2,8 @@
 layout: post
 title: 'GDB Tutorial'
 # description: 
-#categories: tutorial
-#tags: tutorial
+categories: tutorial
+tags: tutorial
 location: "Lafayette - IN"
 ---
 
