@@ -14,9 +14,13 @@ Emerald, so I have a Cyndaquill there.
 
 My favorite food is Deep Fried Cassava (aka Mandioca Frita). 
 Beginer whisky apreciator (free gift tip right there).
+I'm learning how to cook, if you want to see some of my dishes feel free to
+check my [Instagram](https://www.instagram.com/p_droabreu/).
 I'm also a coffee lover. 
 
 I love being with my friends and talk about anything that makes their eye sparkle.
 I also love meeting new people and making new friends.
 
-I am a [Spiritist](https://en.wikipedia.org/wiki/Spiritism).
+I follow a religion called [Spiritism](https://en.wikipedia.org/wiki/Spiritism),
+it's quite popular in Brazil, but I still haven't met a non-Brazilian that has
+heard about it.
