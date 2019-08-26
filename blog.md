@@ -4,12 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Currently I write advices for people interested in academic life,
-sorry if everything is in portuguese for now.
-
-In the future I plan to write about my research and more technical stuff in
-english.
-
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
