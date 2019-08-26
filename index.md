@@ -11,7 +11,7 @@ Proofs and Theorem Provers. More specifically on synthesis using [Freer Monads](
 
 My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
-The summer of 19' I have been an intern at [Galois Inc.](https://galois.com/).
+The summer of 19' I have been an intern at [Galois Inc.](https://galois.com/)
 
 Before starting my PhD I was an intern at [Sifive](https://www.sifive.com/) under 
 [Murali Vijayaraghavan](http://people.csail.mit.edu/vmurali/). Worked on the formalization
