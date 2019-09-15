@@ -58,6 +58,9 @@ purely a plan on how my day/week should look like in order to achieve a reasonab
 amount of work done. And the red one is the work log, where I update every day
 with the work that I have performed.
 
+Now I feel that I will have an objective answer to the questions: "How many
+hours of work does it take to get a PhD?"
+
 
 [//]: # Referências
 
