@@ -7,7 +7,10 @@ permalink: /
 {% include image.html url="images/avatar.jpg" caption="" height="300px" align="right" %}
 
 I am currently a PhD student at Purdue University. I work with Programming Languages,
-Proofs and Theorem Provers. More specifically on synthesis using [Freer Monads](http://okmij.org/ftp/Haskell/extensible/more.pdf).
+Proofs and Theorem Provers. More specifically on
+[Coquedille](https://github.com/pedrotst/coquedille): which is a
+translator from the  intrinsic type theory of Coq to the extrinsic type theory of
+Cedille.
 
 My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
