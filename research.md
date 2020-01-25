@@ -18,9 +18,8 @@ pubs:
           url:  "http://www.imdb.com/title/tt0133093/"
 ## Publications (peer reviewed)
 -->
-Publications will come here soon enough, I hope.
 
-
+[POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
 
 
 {% assign thumbnail="left" %}
