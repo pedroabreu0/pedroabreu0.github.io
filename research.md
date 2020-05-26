@@ -20,6 +20,7 @@ pubs:
 -->
 
 [POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
+
 [Datatypes Presentation for week 2 at Nomadic Labs](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/datatypes.pdf)
 
 
