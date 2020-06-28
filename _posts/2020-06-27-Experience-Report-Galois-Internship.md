@@ -12,7 +12,7 @@ location: "Purdue - West Lafayette"
 
 After a whole year putting this off, I finally decided to put in some time
 and share a little about my internship experience at [Galois
-Inc.](https://galois.com/) located in Portaland - OR.
+Inc.](https://galois.com/) located in Portland - OR.
 
 Let's begin!
 
@@ -24,11 +24,11 @@ Let's begin!
 As you can probably deduce from this awesome gong in the office, Galois
 is an amazing place with amazing people.
 They do some pretty cool stuff with [Haskell](https://www.haskell.org/), Formal
-Methods and Criptography. And to the best of my knowledge Galois is the first
+Methods and Cryptography. And to the best of my knowledge Galois is the first
 company in the world to use Haskell to solve real world problems, and they
 are kind of famous in the PL community for it. In fact, I knew about Galois much
 before moving to the US, and I confess that interning there was kind of a dream
-for the young me -- So hoorray to dreams coming true!
+for the young me -- So hooray to dreams coming true!
 
 <!-- I have heard about -->
 <!-- them, and one of the big reasons I decided to do a PhD in the US was for this -->
@@ -56,13 +56,13 @@ advanced Haskell code in the wild, with tons of language extensions.
 If you want to know more about their projects check [their
 github](https://github.com/GaloisInc/), its all open source!!
 
-During my summer I worked mantaining the SAW proofs of the amazon [S2N](https://github.com/awslabs/s2n)
+During my summer I worked maintaining the SAW proofs of the amazon [S2N](https://github.com/awslabs/s2n)
 TTLS/SSL protocols. Honestly it was a somewhat dull work to make all of that C
 code to compile and run in my machine, then I had to tweak the code by adding
-the proper anotations and make sure I could make the CI run SAW on it to provide
+the proper annotations and make sure I could make the CI run SAW on it to provide
 the proper guarantee that the code was memory safe. That code was written in C
 with a very interesting macro system to make the programming more
-object-oritented and reusable, it changed my perspective on the power of macros.
+object-oriented and reusable, it changed my perspective on the power of macros.
 
 Every week I would meet the project leader to discuss my progress, and
 after a few weeks he noticed that I was not the most passionate person to work with
@@ -122,18 +122,18 @@ For example, in my first day as an intern pretty much every employee came to
 introduce themselves to me
 and show that they could be reached if I ever needed anything.
 
-The office has a pool table, pinbal machines, expresso machine, ice cream, soft
+The office has a pool table, pinball machines, espresso machine, ice cream, soft
 drinks, tea,
 VR games, Steam games, Chess board, and a dangerously rich snack bar.
 
-![Snooker and Pinbal][snooker]{{rsp}}
+![Snooker and Pinball][snooker]{{rsp}}
 
 Every Thursday someone would organize to go out and grab some beers. It was a
 very chilled environment where everyone would just go to a happy hour and relax.
 
 One Friday of the month someone organize a game night at their house, where
 people can play board games and poker. One of these night was in an
-unforgetable farm full of llamas and alpacas. Have a fabulous gif of me
+unforgettable farm full of llamas and alpacas. Have a fabulous gif of me
 petting an alpaca.
 
 ![Me petting an Alpaca][alpaca]{{rsp}}
@@ -141,7 +141,7 @@ petting an alpaca.
 For me, socializing is the most important part of any internship. It is
 when you get to _actually_ know people around you and grow your network. But not
 only that, I've always tried to learn as much as possible from the experience of
-those around me. I will often try to lean the coversation towards people's
+those around me. I will often try to lean the conversation towards people's
 opinions and visions on my field, and try to learn from their extensive
 experience. Thanks to that I'm able to write this detailed blog post, for
 example. Most of the information here I learned directly from the
@@ -155,8 +155,8 @@ of my life.
 
 The summer of 2019 was a remarkable summer in my life, thanks to this
 internship. Our cohort would go out literally every weekend and explore the city. I had an
-amazing roomate. Since we lived so close to the office, the interns would
-hangout at our appartment often. If I could go back and change anything about
+amazing roommate. Since we lived so close to the office, the interns would
+hangout at our apartment often. If I could go back and change anything about
 that summer I wouldn't change a single thing, it was spectacular.
 
 If you are thinking of applying to work at Galois, either as an intern or a
@@ -170,7 +170,7 @@ I might be able to contact someone who will!
 
 Until next time.
 
-![Manequin][galois]{{rsp}}
+![Mannequin][galois]{{rsp}}
 
 [//]: # Referências
 
