@@ -15,7 +15,7 @@ Cedille.
 My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
 The summer of '20 I was an intern at [Nomadic Labs](https://nomadic-labs.com/),
-translating Gadts from ocaml to coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml).
+translating Gadts from Ocaml to coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml).
 
 The summer of '19 I have been an intern at [Galois Inc.](https://galois.com/)
 
