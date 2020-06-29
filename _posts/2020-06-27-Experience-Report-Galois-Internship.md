@@ -24,11 +24,12 @@ Let's begin!
 As you can probably deduce from this awesome gong in the office, Galois
 is an amazing place with amazing people.
 They do some pretty cool stuff with [Haskell](https://www.haskell.org/), Formal
-Methods and Cryptography. And to the best of my knowledge Galois is the first
-company in the world to use Haskell to solve real world problems, and they
-are kind of famous in the PL community for it. In fact, I knew about Galois much
-before moving to the US, and I confess that interning there was kind of a dream
-for the young me -- So hooray to dreams coming true!
+Methods and Cryptography. Being founded by the father of the IO monad, [John
+Launchbury](https://en.wikipedia.org/wiki/John_Launchbury), Galois is one of the
+first companies in the world to use Haskell to solve real world problems, and
+they are kind of famous in the PL community for it. In fact, I knew about Galois
+much before moving to the US, and I confess that interning there was kind of a
+dream for the young me -- So hooray to dreams coming true!
 
 <!-- I have heard about -->
 <!-- them, and one of the big reasons I decided to do a PhD in the US was for this -->
