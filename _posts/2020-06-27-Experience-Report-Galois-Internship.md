@@ -24,7 +24,7 @@ Let's begin!
 As you can probably deduce from this awesome gong in the office, Galois
 is an amazing place with amazing people.
 They do some pretty cool stuff with [Haskell](https://www.haskell.org/), Formal
-Methods and Cryptography. Being founded by the father of the IO monad, [John
+Methods and Cryptography. Being founded in 1999 by the father of the IO monad, [John
 Launchbury](https://en.wikipedia.org/wiki/John_Launchbury), Galois is one of the
 first companies in the world to use Haskell to solve real world problems, and
 they are kind of famous in the PL community for it. In fact, I knew about Galois
