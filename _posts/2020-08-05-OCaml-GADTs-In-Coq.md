@@ -164,7 +164,7 @@ let get_int (e : int expr) : int =
   | Sum _ -> eval e
 {% endhighlight %}
 
-Would be translated ot
+Would be translated to
 
 {% highlight coq linenos %}
 Definition get_int (e : expr int_tag) : nat :=
