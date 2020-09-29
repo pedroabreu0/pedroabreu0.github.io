@@ -2,7 +2,7 @@
 layout: post
 title: "Implementing OCaml's GADTs in Coq"
 description: ""
-categories: ["OCaml", "Formal Methods", "Cryptol", "PL", "en"]
+categories: ["OCaml", "Formal Methods", "PL", "en"]
 location: "Purdue - West Lafayette"
 ---
 
@@ -81,6 +81,7 @@ Notation unit_tag := (constr_tag "unit" unit).
 Notation double_unit_tag := (tuple_tag unit_tag unit_tag).
 Notation int_tag := (constr_tag "nat" nat).
 Notation bool_tag := (constr_tag "bool" bool).
+Notation string_tag := (constr_tag "string" string).
 
 Fixpoint decode_vtag (tag : vtag) {struct tag} : Type :=
   match tag with
