@@ -12,6 +12,8 @@ Proofs and Theorem Provers. More specifically on
 compiler from the intrinsic type theory of Coq to the extrinsic type theory of
 Cedille.
 
+Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/)
+
 My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
 
 The summer of '20 I was an intern at [Nomadic Labs](https://nomadic-labs.com/),
