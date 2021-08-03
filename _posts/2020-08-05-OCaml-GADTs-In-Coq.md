@@ -103,7 +103,7 @@ Inductive unit_or_double_unit' : vtag -> Type :=
 Definition twelve (x : unit_or_double_unit' unit_tag) : nat.
   refine (match x in unit_or_double_unit' T return T = unit_tag -> nat with
     | Unit' => fun _ => 12
-    | Double_unit' => fun eq_double_unit_nat => _
+    | Double_unit' => fun eq_double_unit_nat => ltac:(inversion eq_double_unit_nat)
           end eq_refl).
   inversion eq_double_unit_nat.
 Defined.
