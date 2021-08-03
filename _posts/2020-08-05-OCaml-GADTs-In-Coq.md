@@ -41,7 +41,7 @@ Let's try to do it by refinement. We will need dependent pattern matching for th
 
 {% highlight coq linenos %}
 Definition twelve_unit (x : unit_or_double_unit unit) : nat. 
-    refine (match x in unit_or_double_unit T return T = nat -> nat with
+    refine (match x in unit_or_double_unit T return T = unit -> nat with
     | Unit => fun eq_unit_nat => 12
     | Double_unit => fun eq_double_unit_nat => _
     end eq_refl).
