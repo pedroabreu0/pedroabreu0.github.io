@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Publications
 pubs:
 ---
 <!--
@@ -16,8 +16,11 @@ pubs:
       media:
         - name: "IMDB"
           url:  "http://www.imdb.com/title/tt0133093/"
-## Publications (peer reviewed)
 -->
+
+[A Type-Based Approach to Divide-and-Conquer Recursion in Coq](https://dl.acm.org/doi/abs/10.1145/3571196), *Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa and Morris, J. Garrett and Stump, Aaron*, POPL'23
+
+## Presentations
 
 [POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
 
