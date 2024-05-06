@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interests
+title: Discrimination
 permalink: /misc/
 ---
 
@@ -10,11 +10,12 @@ the hebrew tradition denomination Ruach.
 
 I'm originally a [Spiritist](https://en.wikipedia.org/wiki/Spiritism),
 and although that stil serves me as a good base, recently I'm more interested
-in the western tradition of Magic as a whole. This includes meditation,
-Kaballah, Tarot, Astrology, Alchemy and all that.
+in the western tradition of Magic as a whole. This includes but is
+not limited to meditation,
+Kaballah, Tarot, Astrology, and Alchemy.
 
-Wandered, lost in the dark regions of the human psyche. Through the depths of
-unkonwn materiality we now stand firmly with our courage between the sharp
+Peradventurer of the dark regions of the human psyche. Through the depths of
+unkonwn waters and the shallow, sturdy materiality. We now stand firmly with our courage between the sharp
 sword of wind and the sweet chalice of our own blood. 
 
 Inexorably, the light shall prevail.
