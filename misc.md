@@ -14,6 +14,8 @@ in the western tradition of Magic as a whole. This includes meditation,
 Kaballah, Tarot, Astrology, Alchemy and all that.
 
 Wandered, lost in the dark regions of the human psyche. Through the depths of
-unkonwn materiality. We now stand firmly with our courage between the sharp
-sword of wind and the sweet chalice of our own blood.
+unkonwn materiality we now stand firmly with our courage between the sharp
+sword of wind and the sweet chalice of our own blood. 
+
+Inexorably, the light shall prevail.
 
