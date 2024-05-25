@@ -6,28 +6,21 @@ permalink: /
 
 {% include image.html url="images/avatar.jpg" caption="" height="300px" align="right" %}
 
-I am currently a PhD student at Purdue University. I work with Programming Languages,
-Proofs and Theorem Provers. More specifically on
-[Coquedille](https://github.com/pedrotst/coquedille), a
-compiler from the intrinsic type theory of Coq to the extrinsic type theory of
-Cedille.
-
 Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/)
 
-My advisor is [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
+I have a MsC at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
+Proofs and Theorem Provers, more specifically, translating GADTs from OCaml to COQ for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml), this work was partially funded by [Nomadic Labs](https://nomadic-labs.com/).
 
-The summer of '20 I was an intern at [Nomadic Labs](https://nomadic-labs.com/),
-translating Gadts from OCaml to coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml).
 
 The summer of '19 I have been an intern at [Galois Inc.](https://galois.com/)
 
-Before starting my PhD in '18 I was an intern at [Sifive](https://www.sifive.com/) under 
+In 2018 I was an intern at [Sifive](https://www.sifive.com/) under 
 [Murali Vijayaraghavan](http://people.csail.mit.edu/vmurali/). Worked on the formalization
 of the floating point unit using [Coq](https://coq.inria.fr/)
 and [Kami](http://plv.csail.mit.edu/kami/).
 
 I got my BS in Computer Science at the University of Brasilia, under 
-[Rodrigo Bonifacio](https://rbonifacio.github.io/) in 2017.
+[Prof. Rodrigo Bonifacio](https://rbonifacio.github.io/) in 2017.
 
 ## Contact
 Pedro da Costa Abreu Júnior<br/>
