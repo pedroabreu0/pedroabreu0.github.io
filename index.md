@@ -6,13 +6,15 @@ permalink: /
 
 {% include image.html url="images/avatar.jpg" caption="" height="300px" align="right" %}
 
-Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/)
+Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/).
 
 I have a MsC at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
 Proofs and Theorem Provers, more specifically, translating GADTs from OCaml to Coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml), this work was partially funded by [Nomadic Labs](https://nomadic-labs.com/).
 
 
-The summer of '19 I have been an intern at [Galois Inc.](https://galois.com/)
+The summer of '19 I was been an intern at [Galois Inc.](https://galois.com/),
+among other things I've worked with [SAW](https://saw.galois.com/) to verify
+[AWS' bike/sike project](https://github.com/aws/s2n-tls/tree/main/tests/saw).
 
 In 2018 I was an intern at [Sifive](https://www.sifive.com/) under 
 [Murali Vijayaraghavan](http://people.csail.mit.edu/vmurali/). Worked on the formalization
