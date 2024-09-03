@@ -20,6 +20,8 @@ pubs:
 
 [A Type-Based Approach to Divide-and-Conquer Recursion in Coq](https://dl.acm.org/doi/abs/10.1145/3571196), *Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa and Morris, J. Garrett and Stump, Aaron*, POPL'23
 
+[MSc Thesis: _A Translation of OCaml GADTs into Coq_](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/thesis.pdf), Purdue University
+
 ## Presentations
 
 [POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
