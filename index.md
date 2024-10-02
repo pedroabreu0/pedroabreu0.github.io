@@ -8,7 +8,7 @@ permalink: /
 
 Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/).
 
-I have a MSc at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
+I've completed my MSc in Computer Science at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
 Proofs and Theorem Provers, more specifically, translating GADTs from OCaml to Coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml), this work was partially funded by [Nomadic Labs](https://nomadic-labs.com/).
 
 
