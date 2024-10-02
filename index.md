@@ -8,7 +8,7 @@ permalink: /
 
 Host of the [Type Theory Forall Podcast](https://www.typetheoryforall.com/).
 
-I have a MsC at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
+I have a MSc at Purdue University under [Prof. Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/). My work was in Programming Languages,
 Proofs and Theorem Provers, more specifically, translating GADTs from OCaml to Coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml), this work was partially funded by [Nomadic Labs](https://nomadic-labs.com/).
 
 
@@ -21,7 +21,7 @@ In 2018 I was an intern at [Sifive](https://www.sifive.com/) under
 of the floating point unit using [Coq](https://coq.inria.fr/)
 and [Kami](http://plv.csail.mit.edu/kami/).
 
-I got my BS in Computer Science at the University of Brasilia, under 
+I am a BS in Computer Science at the University of Brasilia, under 
 [Prof. Rodrigo Bonifacio](https://rbonifacio.github.io/) in 2017.
 
 ## Contact
