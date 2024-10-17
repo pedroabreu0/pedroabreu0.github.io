@@ -11,9 +11,9 @@ pubs:
 
 ## Talks and Presentations
 
-[From Turing to Type Theory: The Rich Historical Context of Computation](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/historyofcomputation.pdf)
+[From Turing to Type Theory: The Rich Historical Context of Computation](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/historyofcomputation.pdf) _Invited Talk in the Summer of '24 at UnB, UFMG, UFPE, and FP Meeting at Gothenburg_
 
-[A Translation of OCaml GADTs into Coq](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/master_presentation.pdf)
+[A Translation of OCaml GADTs into Coq](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/master_presentation.pdf) _Master Defense in May '24, and Invited Talks in the Summer of '24 at Chalmers University, Utrecht, TU Delft, Gallinete Team, and Cambium (Inria)_
 
 [POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
 
