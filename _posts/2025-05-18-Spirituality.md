@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I'm a Spiritual Person in a Scientific Community"
+title: "Mea Culpa: Why I'm a Spiritual Person in a Scientific Community"
 # description: # Write below (max: 155 characters).
 #categories: teoria_da_computação
 #tags: teoria_da_computação
@@ -11,10 +11,10 @@ location: "Brasília - DF"
 ---
 
 I’ve always been curious. That’s the heart of it. I want to understand how the
-universe works — from the furthest stars to the workings of our own minds.
-That’s what drew me to science. But that same curiosity, that same longing to
-understand reality and ourselves, also led me deep into the world of religion
-and spirituality.
+universe works — from the bending of fabrics of space-time to the workings of
+our own minds. That’s what drew me to science. But that same curiosity, that
+same longing to understand reality and ourselves, also led me deep into the
+world of religion and spirituality.
 
 To many in the scientific community, this might sound like a contradiction. In
 fact, I’ve often felt a certain snobbery — a kind of proud mockery — from some
@@ -40,7 +40,8 @@ perception of reality. These methods may include meditation, prayer, rituals,
 and sometimes even the careful, respectful use of substances that alter
 consciousness.
 
-I’m not just speaking in abstractions here. My own path has taken me through a wide array of spiritual traditions and practices:
+I’m not just speaking in abstractions here. My own path has taken me through a
+wide array of spiritual traditions and practices:
 - I’ve sat in 10-day silent Vipassana retreats;
 - I’ve consecrated Ayahuasca with native communities;
 - I've joined secret orders;
