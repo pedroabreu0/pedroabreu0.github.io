@@ -26,7 +26,7 @@ I am a BS in Computer Science at the University of Brasilia, under
 
 ## Contact
 Pedro da Costa Abreu Júnior<br/>
-Email: pdacost 'at' purdue.edu<br/>
-Github: [https://github.com/pedrotst](https://github.com/pedrotst)<br/>
+Email  pedro 'at' typetheoryforall.com<br/>
+Github  [https://github.com/pedrotst](https://github.com/pedrotst)<br/>
 Instagram [https://www.instagram.com/p_droabreu/](https://www.instagram.com/p_droabreu/)<br/>
 Twitter [https://twitter.com/p_droabreu0](https://twitter.com/p_droabreu0)<br/>
