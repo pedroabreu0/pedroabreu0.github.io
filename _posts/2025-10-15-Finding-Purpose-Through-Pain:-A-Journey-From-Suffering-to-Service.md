@@ -119,7 +119,7 @@ thanked me softly: “You are so kind, Pedro.” I don’t think of myself as ki
 Don’t you see? You are part of me. Your suffering is my own, just shifted in
 time. When I help you, I’m helping the part of me that once didn’t know how to
 cope. And maybe, if I help you, you’ll help the next person, and slowly academia
-will heal itself. *Pay It Forward* was right about that.
+will heal itself. The movie *Pay It Forward* was right about that.
 
 If my experiences can ease even a small part of another person’s burden, then
 they’re doing their work in the world. Through helping others, my suffering
