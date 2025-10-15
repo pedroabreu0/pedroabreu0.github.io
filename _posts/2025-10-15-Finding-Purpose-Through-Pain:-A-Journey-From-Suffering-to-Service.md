@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Finding Purpose Through Pain: A Journey From Suffering to Service"
+# description: # Write below (max: 155 characters).
+#categories: teoria_da_computação
+#tags: teoria_da_computação
+location: "Brasília - DF"
+[//]: # This is a comment in Markdown!
+[//]: # layout: default
+---
+
 I've never been the best writer. I've always kind of struggled with it at
 school. It is kind of ironic that my job now, the job of a scientist is to
 write. That's why I think I've hidden myself behind a speech medium: Podcast.
