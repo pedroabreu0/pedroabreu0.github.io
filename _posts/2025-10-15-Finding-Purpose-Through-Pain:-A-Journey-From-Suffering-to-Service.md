@@ -9,6 +9,8 @@ location: "Brasília - DF"
 [//]: # layout: default
 ---
 
+# Disclaimer
+
 I've never been the best writer. I've always kind of struggled with it at
 school. It is kind of ironic that my job now, the job of a scientist is to
 write. That's why I think I've hidden myself behind a speech medium: Podcast.
@@ -22,6 +24,8 @@ You'll find that some parts of the text are pretty sensionalist, but overall I
 think he did a good job turning my brain dump into an interesting read.
 
 ------------------------------------------------------------------------
+
+# Pain and Suffering
 
 Suffering has walked beside me for as long as I can remember.\
 When I was nine, my father died in a catastrophic way that changed the
