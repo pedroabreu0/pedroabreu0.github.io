@@ -158,7 +158,7 @@ To make the spaces I inhabit, especially academia, a little truer, a little
 gentler. Because if my pain can help even one person, then it wasn’t in vain.
 
 I hate to finish open heart text with an advertising. But in all
-honest and sincerty, the reasons presented in this text are the reaons I created
+honest and sincerity, the reasons presented in this text are the reaons I created
 the mentorship program at Type Theory Forall. If what I’ve
 written resonates with you, and you’d like to work with me to navigate a more
 compassionate academic system, please check out the link below website
