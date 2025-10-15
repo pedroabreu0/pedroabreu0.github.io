@@ -1,3 +1,17 @@
+I've never been the best writer. I've always kind of struggled with it at
+school. It is kind of ironic that my job now, the job of a scientist is to
+write. That's why I think I've hidden myself behind a speech medium: Podcast.
+That's my way to communicate.
+
+But well, this is to say that I thought it worth sharing my new found mission
+with people, as well as to remind this clarity I have with my future self.
+To make things more palatable I've used ChatGPT for this.
+
+You'll find that some parts of the text are pretty sensionalist, but overall I
+think he did a good job turning my brain dump into an interesting read.
+
+------------------------------------------------------------------------
+
 Suffering has walked beside me for as long as I can remember.\
 When I was nine, my father died in a catastrophic way that changed the
 course of my life. It left a wound that would take years to even begin
@@ -311,6 +325,11 @@ pass on your wounds, or you can decide that they end with you.
 Turning suffering into compassion is an active choice. It's work. It's
 the daily decision to transform anger into understanding, despair into
 tenderness.
+
+Of course, I'm not perfect, so I'm not an enlightened being free of anger
+and made of pure compassion. On the oposite. The anger is still there, alive,
+pulsating. The difference is that I choose to not let it control me, and it is
+a daily work for me to transmute it into compassion: Karuṇā.
 
 Healing doesn't mean forgetting. It means refusing to weaponize your
 pain. It means using it as fuel for presence.
