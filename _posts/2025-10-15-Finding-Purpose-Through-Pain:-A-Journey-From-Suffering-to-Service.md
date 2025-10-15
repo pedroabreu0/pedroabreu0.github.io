@@ -20,6 +20,8 @@ through service, and to make sense of what I’ve lived. I used ChatGPT to
 organize my thoughts, and though some passages came out more polished than I’d
 write on my own, the core of it is mine.
 
+-------------------------------------------------------------------------------
+
 Suffering has been with me for as long as I can remember. When I was nine, my
 father died in a catastrophic way that changed my life forever. It left a wound
 that took years to begin to understand. Since then, pain has been a quiet
@@ -159,5 +161,5 @@ I hate to finish open heart text with an advertising. But in all
 honest and sincerty, the reasons presented in this text are the reaons I created
 the mentorship program at Type Theory Forall. If what I’ve
 written resonates with you, and you’d like to work with me to navigate a more
-compassionate academic system, please check out the link below website.
+compassionate academic system, please check out the link below website
 <https://typetheoryforall.com/mentorship>.
