@@ -1,5 +1,3 @@
-# Finding Purpose Through Pain: A Journey from Suffering to Service
-
 Suffering has walked beside me for as long as I can remember.\
 When I was nine, my father died in a catastrophic way that changed the
 course of my life. It left a wound that would take years to even begin
@@ -359,4 +357,4 @@ I don’t love ending such a personal text with something that sounds like an
 advertisement, but honesty compels me to say it: this is exactly why I created
 the mentorship program at Type Theory Forall. If what I’ve written here
 resonates with you, and you feel that working together could help you navigate
-your own path in academia, you can learn more [here](typetheoryforall.com/mentorship)
+your own path in academia, you can learn more [here](https://typetheoryforall.com/mentorship).
