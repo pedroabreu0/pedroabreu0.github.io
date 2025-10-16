@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding Purpose Through Pain: A Journey From Suffering to Service"
+title: "A mission to heal academia, even if just a little"
 # description: # Write below (max: 155 characters).
 #categories: teoria_da_computação
 #tags: teoria_da_computação
@@ -157,7 +157,7 @@ For me, that choice is service—to help others carry what I once carried alone.
 To make the spaces I inhabit, especially academia, a little truer, a little
 gentler. Because if my pain can help even one person, then it wasn’t in vain.
 
-I hate to finish open heart text with an advertising. But in all
+I hate to finish this open heart text with an advertising. But in all
 honest and sincerity, the reasons presented in this text are the reaons I created
 the mentorship program at Type Theory Forall. If what I’ve
 written resonates with you, and you’d like to work with me to navigate a more
