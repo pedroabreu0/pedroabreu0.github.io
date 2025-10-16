@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A mission to heal academia, even if just a little"
+title: "A Mission To Heal Academia, Even If Just A Little"
 # description: # Write below (max: 155 characters).
 #categories: teoria_da_computação
 #tags: teoria_da_computação
