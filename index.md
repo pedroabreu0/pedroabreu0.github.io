@@ -12,7 +12,7 @@ I've completed my MSc in Computer Science at Purdue University under [Prof. Benj
 Proofs and Theorem Provers, more specifically, translating GADTs from OCaml to Coq for [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml), this work was partially funded by [Nomadic Labs](https://nomadic-labs.com/).
 
 
-The summer of '19 I was been an intern at [Galois Inc.](https://galois.com/),
+The summer of '19 I was an intern at [Galois Inc.](https://galois.com/),
 among other things I've worked with [SAW](https://saw.galois.com/) to verify
 [AWS' bike/sike project](https://github.com/aws/s2n-tls/tree/main/tests/saw).
 
