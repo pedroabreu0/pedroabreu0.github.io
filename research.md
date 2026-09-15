@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title: Publications
+title: Research
 pubs:
 ---
 
-[A Type-Based Approach to Divide-and-Conquer Recursion in Coq](https://dl.acm.org/doi/abs/10.1145/3571196), *Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa and Morris, J. Garrett and Stump, Aaron*, POPL'23
+[A Type-Based Approach to Divide-and-Conquer Recursion in Coq](https://dl.acm.org/doi/abs/10.1145/3571196), Pedro Abreu, Benjamin Delaware, Alex Hubers, Christa Jenkins, J. Garrett Morris, and Aaron Stump, *POPL 2023*
 
 [MSc Thesis: _A Translation of OCaml GADTs into Coq_](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/thesis.pdf), Purdue University
 
@@ -13,7 +13,7 @@ pubs:
 
 [From Turing to Type Theory: The Rich Historical Context of Computation](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/historyofcomputation.pdf) _Invited Talk in the Summer of '24 at UnB, UFMG, UFPE, and FP Meeting at Gothenburg_
 
-[A Translation of OCaml GADTs into Coq](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/master_presentation.pdf) _Master Defense in May '24, and Invited Talks in the Summer of '24 at Chalmers University, Utrecht, TU Delft, Gallinete Team, and Cambium (Inria)_
+[A Translation of OCaml GADTs into Coq](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/master_presentation.pdf) _Master Defense in May '24, and Invited Talks in the Summer of '24 at Chalmers University, Utrecht, TU Delft, Galinette Team, and Cambium (Inria)_
 
 [POPL'20 Poster - How Small Can We Make A Useful Type Theory?](https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf)
 

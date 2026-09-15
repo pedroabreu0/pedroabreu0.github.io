@@ -4,8 +4,11 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Misc"
+- title: "Personal"
   href: "/misc/"
+
+- title: "Podcast"
+  href: "https://www.typetheoryforall.com/"
 
 - title: "Blog"
   href: "/blog/"
